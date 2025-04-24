@@ -18,4 +18,4 @@ data cleaning
 data prepare
 data visualization
 gain insights
-![image](https://github.com/user-attachments/assets/0f4ce217-a6bb-4da8-923d-d6ad10c3322c)
+
