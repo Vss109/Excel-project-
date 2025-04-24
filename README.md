@@ -1,1 +1,21 @@
-# Excel-project-
+Report
+Adult Women orders most of things than others
+People are like to order from amazon mostly womens
+Top sales are from maharashtra state
+mostly orders are delivered succesfully
+womens sales are higher than mens
+higher sales done in march
+
+conclusion:
+we can give offer on amazon and mytra at the time of summer  where higher 
+sales are encounterd on womens accessories in states like maharashtra, karnataka, uttar pradesh,Telangana, Tamil Nadu
+
+
+Dataset 31,047
+vrinda store annual sales report.
+
+data cleaning
+data prepare
+data visualization
+gain insights
+![image](https://github.com/user-attachments/assets/0f4ce217-a6bb-4da8-923d-d6ad10c3322c)
